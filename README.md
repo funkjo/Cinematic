@@ -25,18 +25,18 @@ Then, navigate into the project directory:
   
 Next, create a virtual environment in that directory: 
 
-**On Mac** 
+**On Mac**     
 `python3 -m venv venv`  
 
-**On Windows**
+**On Windows**      
 `virtualenv venv`
   
 Activate your virtual environment.  
 
-**On a Mac**  
+**On a Mac**       
 `source venv/bin/activate`  
   
-**On Windows**  
+**On Windows**        
 `venv\Scripts\activate`  
 
 Next, download all of the project dependencies:  
