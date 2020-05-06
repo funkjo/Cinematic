@@ -10,9 +10,17 @@ Contributors:
 **Jesvian Villarroel**  
   
 ## Installation guide  
-  
-After this project has been downloaded, navigate to the directory where it is located.  
-Ex:  
+
+Download this project by clicking the big green button in the top right, then clicking Download ZIP. Then unzip the file.
+
+If you do not have python 3 installed on your machine, click the following link and follow the instructions to download python for your operating system:
+[Download Python](https://realpython.com/installing-python/)
+
+After this project has been downloaded, navigate to the downloads folder in your terminal or console.  
+Ex:
+`cd Downloads`
+
+Then, navigate into the project directory:
 `cd Cinematic-master`  
   
 Next, create a virtual environment in that directory:  
