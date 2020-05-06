@@ -13,7 +13,7 @@ Contributors:
   
 After this project has been downloaded, navigate to the directory where it is located.  
 Ex:  
-`cd movie-rental-system`  
+`cd Cinematic-master`  
   
 Next, create a virtual environment in that directory:  
 `python3 -m venv venv`  
@@ -24,7 +24,7 @@ Activate your virtual environment.
   
 **On Windows**  
 `venv\Scripts\activate`  
-  
+
 Next, download all of the project dependencies:  
 `pip install -r requirements.txt`  
   
@@ -33,3 +33,5 @@ Finally, run the application:
   
 In your favorite browser, navigate to this URL:  
 `http://127.0.0.1:3001/`
+
+To stop the application press `ctrl + C`
