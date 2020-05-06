@@ -24,6 +24,7 @@ Then, navigate into the project directory:
 `cd Cinematic-master`  
   
 Next, create a virtual environment in that directory: 
+
 **On Mac** 
 `python3 -m venv venv`  
 
@@ -31,6 +32,7 @@ Next, create a virtual environment in that directory:
 `virtualenv venv`
   
 Activate your virtual environment.  
+
 **On a Mac**  
 `source venv/bin/activate`  
   
@@ -40,7 +42,8 @@ Activate your virtual environment.
 Next, download all of the project dependencies:  
 `pip install -r requirements.txt`  
   
-Finally, run the application:  
+Finally, run the application: 
+ 
 **On a Mac**  
 `python3 movie-rental-system.py`  
 
