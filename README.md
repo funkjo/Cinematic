@@ -11,7 +11,7 @@ Contributors:
   
 # Installation guide  
 
-### 1. )Download this project by clicking the big green button in the top right, then clicking Download ZIP. Then unzip the file.
+### 1.) Download this project by clicking the big green button in the top right, then clicking Download ZIP. Then unzip the file.
 
 If you do not have python 3 installed on your machine, click the following link and follow the instructions to download python for your operating system:
 [Download Python](https://realpython.com/installing-python/)
